@@ -7,6 +7,7 @@ at [@acquia](https://github.com/acquia) <img src="https://media.giphy.com/media/
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_vivek26/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=vkmr26)
 [![Web](https://img.shields.io/badge/Web-F38020?style=flat-square&logo=googlecloud&logoColor=white)](https://vivek.sh/)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vivek.26@outlook.com)
 
 _**Doing what is right, not what is easy!**_
 
@@ -29,5 +30,5 @@ _**Doing what is right, not what is easy!**_
   [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 - 😄 Pronouns: He/Him/His
-  
+
 - 👯 I’m looking to collaborate on Golang projects.
