@@ -1,9 +1,17 @@
-### Hi there 👋
+## Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**vivek-26/vivek-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer
+at [@acquia](https://github.com/acquia) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-vivek-kumar/)
+[![Instagram](https://img.shields.io/badge/Instagram-fd1d1d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_vivek26/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=vkmr26)
+[![Web](https://img.shields.io/badge/Web-success?style=flat-square&logo=googlecloud&logoColor=white)](https://vivek.sh/)
+
+_**Doing what is right, not what is easy!**_
+
+- 🚀 I use
+  daily: [![Golang](https://img.shields.io/badge/Golang-01ADD8?style=flat-square&logo=go&logoColor=white)](https://www.linkedin.com/in/its-vivek-kumar/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
