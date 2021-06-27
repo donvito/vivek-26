@@ -1,4 +1,4 @@
-## Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a Software Engineer
 at [@acquia](https://github.com/acquia) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -32,3 +32,5 @@ _**Doing what is right, not what is easy!**_
 - 😄 Pronouns: He/Him/His
 
 - 👯 I’m looking to collaborate on Golang projects.
+
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek-26&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
