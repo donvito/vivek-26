@@ -27,7 +27,7 @@ _**Doing what is right, not what is easy!**_
 
 - 🌱 I’m currently learning:
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-  [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+  [![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 - 😄 Pronouns: He/Him/His
 
