@@ -10,8 +10,13 @@ at [@acquia](https://github.com/acquia) <img src="https://media.giphy.com/media/
 
 _**Doing what is right, not what is easy!**_
 
-- 🚀 I use
-  daily: [![Golang](https://img.shields.io/badge/Golang-01ADD8?style=flat-square&logo=go&logoColor=white)](https://www.linkedin.com/in/its-vivek-kumar/)
+- 🚀 I use daily:
+  [![Golang](https://img.shields.io/badge/Golang-01ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+  [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)](https://aws.amazon.com/)
+  [![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![MySQL](https://img.shields.io/badge/PostgreSQL-8A2BE2?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![Git](https://img.shields.io/badge/Git-f34f29?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+  [![Linux](https://img.shields.io/badge/Linux-81c13b?style=flat-square&logo=git&logoColor=white)](https://www.linux.org/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
